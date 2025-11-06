@@ -21,5 +21,14 @@ We are looking for:
 -Plugin system draft 
 -Cloud sync testing 
 -Developer SDK (future plan)
-https://github.com/Ycn10086/Universal-OS/blob/main/Brand new universal operating system.pptx
-https://github.com/Ycn10086/Universal-OS/blob/main/图片.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Brandnewuniversaloperatingsystem.pptx
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103225_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103238_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103247_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103258_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103307_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103318_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103318_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103327_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103340_com_hihonor_hnoffice_AppFrameActivity_PG1.png
+https://github.com/Ycn10086/Universal-OS/blob/main/Screenshot_20251106_103349_com_hihonor_hnoffice_AppFrameActivity_PG1.png
