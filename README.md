@@ -21,3 +21,5 @@ We are looking for:
 -Plugin system draft 
 -Cloud sync testing 
 -Developer SDK (future plan)
+https://github.com/Ycn10086/Universal-OS/blob/main/Brand new universal operating system.pptx
+https://github.com/Ycn10086/Universal-OS/blob/main/图片.png
